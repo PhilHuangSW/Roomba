@@ -1,0 +1,157 @@
+fileFormatVersion: 2
+guid: a10233853d3028748a2f7975c70f7253
+TextureImporter:
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: iPhone
+    maxTextureSize: 1024
+    textureFormat: -2
+    compressionQuality: 50
+  spriteSheet:
+    sprites:
+    - name: tiles2_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1963
+        width: 1177
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: tiles2_1
+      rect:
+        serializedVersion: 2
+        x: 1231
+        y: 1874
+        width: 753
+        height: 147
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: tiles2_2
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 1814
+        width: 711
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: tiles2_3
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 1880
+        width: 414
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: tiles2_4
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 1633
+        width: 560
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: tiles2_5
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 1633
+        width: 561
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: tiles2_6
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 1460
+        width: 162
+        height: 211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: tiles2_7
+      rect:
+        serializedVersion: 2
+        x: 1582
+        y: 1619
+        width: 322
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: tiles2_8
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 1489
+        width: 846
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: tiles2_9
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 1461
+        width: 354
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: tiles2_10
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 1091
+        width: 159
+        height: 358
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: tiles2_11
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 1129
+        width: 248
+        height: 287
+      alignment: 0
+      pivot: {x: 0, y: 0}
+  spritePackingTag: 
+  userData: 

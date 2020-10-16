@@ -1,0 +1,130 @@
+fileFormatVersion: 2
+guid: 210499000023a8649b70b6ef7128d8c0
+TextureImporter:
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: iPhone
+    maxTextureSize: 1024
+    textureFormat: -2
+    compressionQuality: 50
+  spriteSheet:
+    sprites:
+    - name: enemyRobot_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 339
+        width: 165
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: enemyRobot_1
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 359
+        width: 154
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: enemyRobot_2
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 372
+        width: 147
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: enemyRobot_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 208
+        width: 146
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: enemyRobot_4
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 222
+        width: 167
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: enemyRobot_5
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 237
+        width: 129
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: enemyRobot_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 93
+        width: 141
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: enemyRobot_7
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 148
+        width: 86
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: enemyRobot_8
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 115
+        width: 232
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+  spritePackingTag: 
+  userData: 
